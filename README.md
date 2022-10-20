@@ -3,6 +3,7 @@
 </div>
 <div id="badges">
   <a href="https://web.telegram.org/k/#@GolenkoIvan">
+    <h3 align="center">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=flat-square" alt="Telegram Badge"/>
    </a>
 </div>
