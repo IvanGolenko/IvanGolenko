@@ -16,13 +16,13 @@
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)\
-![Git Bash](https://img.shields.io/badge/GitBash-orange?style=flat-square)
 
 ***Tools:***
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitBash](https://img.shields.io/badge/GitBash-orange?style=flat-square)
 
 <!--
 **IvanGolenko/IvanGolenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
