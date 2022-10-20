@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <a href="[your-telegram-URL](https://web.telegram.org/k/#@GolenkoIvan)">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=flat-square" alt="telegram Badge"/>
+  <a href="https://web.telegram.org/k/#@GolenkoIvan">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=flat-square" alt="Telegram Badge"/>
    </a>
 </div>
 
