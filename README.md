@@ -11,9 +11,9 @@
 ### Hi there 👋
 
 ### :man_technologist: About Me :
-:snake: My name is Ivan. I am a beginner Python-developer.\
-:book: I studied at [Yandex.Practice](https://practicum.yandex.ru/) from 2021 to 2022.\
-:crystal_ball: I dream of finding a job as a developer.
+:snake:  I'm Ivan, a beginner Python-developer.\
+:book: Education: [Yandex.Practice](https://practicum.yandex.ru/) from 2021 to 2022.\
+:crystal_ball: My dream is to find a job as a developer.
 
 
 ***My background in Back-end development:***
