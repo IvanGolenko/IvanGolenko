@@ -19,10 +19,11 @@
 
 ***Tools:***
 
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![VSC](https://img.shields.io/badge/VSC-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![GitBash](https://img.shields.io/badge/Git_Bash-E44C30?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitBash](https://img.shields.io/badge/GitBash-orange?style=flat-square)
 
 <!--
 **IvanGolenko/IvanGolenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
