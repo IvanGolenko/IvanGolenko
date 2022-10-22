@@ -16,14 +16,19 @@
 :crystal_ball: I dream of finding a job as a developer.
 
 
-***Back-end:***
+***My background in Back-end development:***
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 
-***Tools:***
+***I can work with Databases:***
+
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%232c3e50?style=flat-square&logo=Postgresql)
+
+***I know how to use Tools:***
 
 ![VSC](https://img.shields.io/badge/VSC-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![GitBash](https://img.shields.io/badge/Git_Bash-E44C30?style=flat-square&logo=git&logoColor=white)
