@@ -18,8 +18,8 @@
 
 ***My resume:***
 
- :bookmark_tabs: [Habr Career] (https://career.habr.com/ivangolenko1) \
- :clipboard: [HeadHunter] (https://rostov.hh.ru/resume/983cac1fff0b6217bb0039ed1f7773364c7070)
+ :bookmark_tabs: [Habr Career](https://career.habr.com/ivangolenko1) \
+ :clipboard: [HeadHunter](https://rostov.hh.ru/resume/983cac1fff0b6217bb0039ed1f7773364c7070)
 
 ***My background in Back-end development:***
 
