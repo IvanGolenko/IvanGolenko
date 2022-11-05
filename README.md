@@ -16,6 +16,11 @@
 :crystal_ball: My dream is to find a job as a developer.
 
 
+***My resume:***
+
+ Habr Career: https://career.habr.com/ivangolenko1
+ HeadHunter: https://rostov.hh.ru/resume/983cac1fff0b6217bb0039ed1f7773364c7070
+
 ***My background in Back-end development:***
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
